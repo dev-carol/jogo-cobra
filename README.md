@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Produzindo o jogo da cobra
 
-You can use the [editor on GitHub](https://github.com/dev-carol/jogo-cobra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Projeto dedicado aos estudos pela plataforma : https://web.digitalinnovation.one/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 🚀 Começando
 
-### Markdown
+Esse projeto ajuda a desenvolver mais o raciocino lógico, que pode auxiliar suas melhores programações.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 📋 Pré-requisitos
 
-# Header 1
-## Header 2
-### Header 3
+Pode ser feito o donwload em qualquer máquina.
 
-- Bulleted
-- List
+## 🛠️ Construído com
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+* HTML 5 - Apenas para inicio 
+* CSS3 - Agregar ao estilo visualmente
+* JAVASCRIPT - Para apoiar os comandos
 ```
+🎁 Expressões de gratidão
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Conte a outras pessoas sobre este projeto 📢
+* Convide alguém da equipe para uma cerveja 🍺 
+* Obrigado publicamente 🤓.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dev-carol/jogo-cobra/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+⌨️ com ❤️ por Caroline Santos 😊
